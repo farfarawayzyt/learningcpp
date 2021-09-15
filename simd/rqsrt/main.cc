@@ -3,7 +3,10 @@
 #include <random>
 #include <chrono>
 #include <string>
+<<<<<<< HEAD
 #include <cmath>
+=======
+>>>>>>> 596fc6394454ab5125d7761506c9347a00834a87
 #include <immintrin.h>
 
 constexpr size_t ArraySize = 56*96;
